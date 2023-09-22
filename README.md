@@ -13,8 +13,10 @@
 <ul> 
 <li> Toyota AE86 (ae hachiroku) </li>
 <p> The Toyota AE86 was a popular JDM car back in the 80's, and its tuning potential is almost unlimited. Popularized by the racing anime, Initial D, this car was, light, aerodynamic, had a lot of tuning potential, and most of all cheap. It showed that speed was not everything, (because this car was not fast! at all...) it was more of a nimble car, and had better handling, it was more of a drift car. </p>
-
-
+<li> Honda Civic </li>
+<p> The Honda Civic was a pretty cheap car, developed by Honda, and it was popular amongst modders and Tuners alike for how easy it was to customize. Again, it wasn't a very fast car, but it was easily accesible for people to buy, and it was quite a popular car for its light-weight and athletic driving demeanor despite being cheap. </p>
+<img src=”(https://live.staticflickr.com/7468/15392759143_3cc94b4178_b.jpg)”>
+<p> "1992 Honda Civic Ferio SiR sedan (modified)" by Aero7MY is licensed under CC BY-SA 2.0. </p>
 
 
 
